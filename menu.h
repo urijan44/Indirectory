@@ -5,7 +5,7 @@ using namespace std;
 namespace _menu {
 	class menu {
 	private:
-		string menuList[6];
+		string menuList[5];
 
 	public:
 		menu();

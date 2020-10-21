@@ -1,0 +1,15 @@
+.git
+.gitignore
+.vs
+DirectoryFileList.sln
+DirectoryFileList.vcxproj
+DirectoryFileList.vcxproj.filters
+DirectoryFileList.vcxproj.user
+directoryFL.cpp
+directoryFL.h
+List.csv
+main.cpp
+menu.cpp
+menu.h
+README.md
+x64

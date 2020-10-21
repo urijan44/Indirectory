@@ -12,12 +12,14 @@ namespace dFL {
 		int fileCount;
 		_menu::menu MENU;
 		std::string fileList;
+		bool indexLimit;
 	public:
 		directoryFL();
 		void init();
 		void run();
 		void directoryUp();
 		void directoryDown();
+		void directoryLableChange();
 	};
 }
 
